@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587161015 source:c:\users\user\desktop\cimma\tp1_laboratorio1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cimma.h"
+
+1587160861 source:c:\users\user\desktop\cimma\tp1_laboratorio1\tp1\cimma.c
+
+1587160780 c:\users\user\desktop\cimma\tp1_laboratorio1\tp1\cimma.h
+
