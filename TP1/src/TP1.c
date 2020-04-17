@@ -25,6 +25,8 @@ int main(void) {
 	printf("\t e) Calcular el factorial (A!)\n");
 	printf("4. Informar resultados\n");
 	printf("5. Salir\n\n");
+	
+	
 
 	return EXIT_SUCCESS;
 }
